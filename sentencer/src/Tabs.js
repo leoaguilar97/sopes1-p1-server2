@@ -64,8 +64,8 @@ export default function SimpleTabs() {
     const [state, setState] = React.useState({
         csa: true,
         csb: true,
-        ipa: "http://34.71.201.57",
-        ipb: "http://104.197.121.167"
+        ipa: "http://35.237.92.100",
+        ipb: "http://104.196.187.68"
     });
 
     let handleConfigChange = (config) => {
